@@ -1,6 +1,6 @@
 # bitcoin_wallets
 
-## 유튜브 지혜의 족보 "따라만 하면 복이 오는 개인주소 만들기 (파이썬 코딩)"를 보면 만들었습니다 (https://www.youtube.com/watch?v=Zb-ClnsxeVM)
+유튜브 지혜의 족보 "따라만 하면 복이 오는 개인주소 만들기 (파이썬 코딩)"를 보면서 만들었습니다 (https://www.youtube.com/watch?v=Zb-ClnsxeVM)
 
 # 주의사항
 1. 코드 한줄 한줄 따라하시면서 하세요. 그리고 코드안에 있는 한글로된 설명문을 꼼꼼히 읽으시면서 하시길 바랍니다
