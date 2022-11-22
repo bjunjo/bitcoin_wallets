@@ -9,7 +9,7 @@ import qrcode
 import image
 
 # QR 코드 이미지를 저장할 파일경로를 설정해주세요
-file_path = f"/Users/byoungjunjo/Downloads/"
+file_path = f"본인_파일경로_설정"
 
 # 비밀키 만들기
 private_key = bitcoin.random_key()
